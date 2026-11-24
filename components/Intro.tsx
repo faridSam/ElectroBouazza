@@ -10,7 +10,7 @@ export function Intro() {
         </h2>
       </div>
       <p>
-        Quand un électroménager tombe en panne, chaque journée compte. Élio
+        Quand un électroménager tombe en panne, chaque journée compte. BOUAZZA
         privilégie une prise de contact directe, une explication claire du
         problème et une démarche simple pour organiser la suite.
       </p>

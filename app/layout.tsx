@@ -3,9 +3,9 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Élio — Réparation d'électroménagers à Montréal",
+  title: "BOUAZZA — Réparation d'électroménagers à Montréal",
   description:
-    "Réparation de réfrigérateurs, laveuses, sécheuses, fours et lave-vaisselle à Montréal. Appelez Élio ou décrivez votre panne pour demander un devis.",
+    "Réparation de réfrigérateurs, laveuses, sécheuses, fours et lave-vaisselle à Montréal. Appelez BOUAZZA ou décrivez votre panne pour demander un devis.",
 };
 
 export const viewport: Viewport = { themeColor: "#f5f4ee" };

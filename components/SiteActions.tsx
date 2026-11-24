@@ -90,7 +90,7 @@ export function SiteActionsProvider({ children }: { children: ReactNode }) {
             >
               ×
             </button>
-            <h2 id="callTitle">Appeler Élio</h2>
+            <h2 id="callTitle">Appeler BOUAZZA</h2>
             <p>
               Le numéro affiché est un emplacement fictif. Une fois le vrai
               numéro ajouté, ce bouton lancera un appel téléphonique sur les

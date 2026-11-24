@@ -19,7 +19,7 @@ export function QuoteForm({
       <button className="x" onClick={close} aria-label="Fermer" type="button">
         ×
       </button>
-      <span className="eyebrow">Élio · Montréal</span>
+      <span className="eyebrow">BOUAZZA · Montréal</span>
       <h2 id="quoteTitle">Demander un devis</h2>
       <p>
         Décrivez votre appareil et ses symptômes pour préparer une estimation.

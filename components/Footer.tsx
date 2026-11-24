@@ -3,7 +3,7 @@ export function Footer() {
     <footer className="footer">
       <div className="wrap">
         <strong style={{ fontFamily: "Manrope", fontSize: "26px" }}>
-          élio.
+          BOUAZZA.
         </strong>
         <span>
           Maquette de démonstration · Réparation d'électroménagers · Montréal
